@@ -18,3 +18,10 @@ For this example, I used the "MovieLens" data set that contains information of u
 $ pip install pandas
 $ pip install numpy
 ```
+
+- Option 1 : lors du chargement des données avec
+  pandas.read_csv()
+
+- Option 2 : en utilisant la fonction replace()
+
+df.replace(['XXXX', 'XX'], pd.NA, inplace=True)
