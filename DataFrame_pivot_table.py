@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__ = 'Who ?'
+aly-data __author__ = 'Who ?'
 
 import pandas as pd
 import numpy as np
